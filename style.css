@@ -1,0 +1,26 @@
+.container{
+    margin-top: 15px;
+    padding: 230px;
+    background-color: aqua;
+}
+h3{
+    font-weight:bolder ;
+    font-size: 90px;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 80px;
+}
+.group{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 15px;
+}
+
+button{
+    padding: 10px;
+   
+}
