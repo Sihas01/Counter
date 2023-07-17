@@ -15,8 +15,3 @@ function change(n){
    let count = document.getElementById("count");
    count.innerText = tot;
 }
-
-function background(){
-    var m = document.getElementById("flexSwitchCheckDefault").value;
-        alert(m);
-}
